@@ -1,41 +1,20 @@
-👋 Hi, I'm MdALSiyam!
+![image](https://github.com/user-attachments/assets/79a252f7-bc31-4129-9b0b-e455a6182ce4)👋 Hi, I'm Md Abdul Latif Siyam!
   I'm a passionate Full Stack Software Developer with expertise in ASP.NET. I enjoy building dynamic and responsive applications, and I'm always eager to learn new technologies to improve my skills and deliver better solutions.
 
-👀 Interests:
+💡 Skills
+Languages: C#, JavaScript
+Frameworks: .NET, React, Angular, Node.js
+Tools: Git, Docker, Azure
 
--  Software development and system design
+📫 Contact Me
+GitHub: 
+LinkedIn: 
+Email: 
 
--  Cloud computing and microservices
+🌱 Currently Learning
+Advanced algorithms
+Cloud-native development
+AI and machine learning
 
--  AI and machine learning integration in apps
-
--  Open-source projects and contributions
-
-🌱 Currently learning:
-
--  Advanced .NET Core
-
--  Cloud platforms (Azure, AWS)
-
--  Frontend frameworks like React and Angular
-
--  Exploring DevOps practices for better CI/CD pipelines
-
-💞️ Looking to collaborate on:
-
--  Full-stack web applications
-
--  Open-source ASP.NET projects
-
--  Anything related to software architecture and cloud-based solutions
-
-📫 How to reach me:
-
--  Email: [Your Email]
-
--  LinkedIn: [Your LinkedIn]
-
--  GitHub: [Your GitHub URL]
-
-⚡ Fun fact:
-When I’m not coding, you can find me exploring new tech innovations or diving into the world of sci-fi books and movies!
+✨ Fun Fact
+I'm an avid gamer and love to play strategy games in my free time!
