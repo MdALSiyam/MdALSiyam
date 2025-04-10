@@ -4,14 +4,17 @@
   I enjoy building dynamic and responsive applications, and I'm always eager to learn new technologies to improve my skills and deliver better solutions.
 
 ## 💡 Skills
--  Languages: C#, JavaScript
--  Frameworks: .NET, React, Angular, Node.js
--  Tools: Git, Docker, Azure
+-  Database: SQL, MySQL
+-  FrontEnd: HTML, CSS, Bootstrap, JavaScript, jQuery, Angular, React
+-  Back-End: PHP-Laravel, Node.js, C#, ASP.NET (MVC & Core)
+-  Graphics: Logo Design, Card Design, Calendar Design, Product Design
+-  Animation: 3D Infographic Animation
+-  Tools: Git, Azure
 
 ## 📫 Contact Me
 -  GitHub:
--  LinkedIn:
--  Email: 
+-  LinkedIn: www.linkedin.com/in/md-abdul-latif-siyam-894578207
+-  Email: mdabdullatifsiyam733@gmail.com
 
 ## 🌱 Currently Learning
 -  Advanced algorithms
