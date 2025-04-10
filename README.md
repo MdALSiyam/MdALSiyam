@@ -6,7 +6,7 @@
 ## 💡 Skills
 -  Database: SQL, MySQL
 -  FrontEnd: HTML, CSS, Bootstrap, JavaScript, jQuery, Angular, React
--  Back-End: PHP-Laravel, Node.js, C#, ASP.NET (MVC & Core)
+-  BackEnd: PHP-Laravel, Node.js, C#, ASP.NET (MVC & Core)
 -  Graphics: Logo Design, Card Design, Calendar Design, Product Design
 -  Animation: 3D Infographic Animation
 -  Tools: Git, Azure
