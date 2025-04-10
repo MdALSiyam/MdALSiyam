@@ -12,9 +12,9 @@
 -  Tools: Git, Azure
 
 ## 📫 Contact Me
--  GitHub:
--  LinkedIn: www.linkedin.com/in/md-abdul-latif-siyam-894578207
--  Email: mdabdullatifsiyam733@gmail.com
+-  GitHub:    https://github.com/MdALSiyam
+-  LinkedIn:  www.linkedin.com/in/md-abdul-latif-siyam-894578207
+-  Email:     mdabdullatifsiyam733@gmail.com
 
 ## 🌱 Currently Learning
 -  Advanced algorithms
