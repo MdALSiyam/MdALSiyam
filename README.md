@@ -13,7 +13,7 @@
 
 ## 📫 Contact Me
 -  GitHub:    https://github.com/MdALSiyam
--  LinkedIn:  www.linkedin.com/in/md-abdul-latif-siyam-894578207
+-  LinkedIn:  https://www.linkedin.com/in/mdalsiyam/
 -  Email:     mdabdullatifsiyam733@gmail.com
 
 ## 🌱 Currently Learning
