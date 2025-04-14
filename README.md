@@ -17,9 +17,9 @@
 -  Email:     mdabdullatifsiyam733@gmail.com
 
 ## 🌱 Currently Learning
--  Advanced algorithms
--  Cloud-native development
--  AI and machine learning
+-  Diving deep into advanced algorithms
+-  Exploring cloud-native development
+-  Getting hands-on with AI and machine learning
 
 ## ✨ Fun Fact
-I'm an avid gamer and love to play strategy games in my free time!
+I'm a strategy game enthusiast—whether it's real-time or turn-based, I love the challenge of outsmarting the opponent!
