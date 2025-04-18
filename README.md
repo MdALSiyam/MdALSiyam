@@ -1,50 +1,90 @@
-##  Introduction
-  Hi, I'm Md Abdul Latif Siyam!
-  I'm a passionate Full Stack Software Developer with expertise in ASP.NET. 
-  I enjoy building dynamic and responsive applications, and I'm always eager to learn new technologies to improve my skills and deliver better solutions.
+<h1 align="center">Hi 👋, I'm Md Abdul Latif Siyam</h1>
+<h3 align="center">🚀 A Passionate Full Stack Developer | ASP.NET Enthusiast | Lifelong Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MdALSiyam&label=Profile%20views&color=0e75b6&style=flat" alt="MdALSiyam" /> </p>
-
-## 💡 Skills
--  Database: SQL, MySQL
--  FrontEnd: HTML, CSS, Bootstrap, JavaScript, jQuery, Angular, React
--  BackEnd: PHP-Laravel, Node.js, C#, ASP.NET (MVC & Core)
--  Graphics: Logo Design, Card Design, Calendar Design, Product Design
--  Animation: 3D Infographic Animation
--  Tools: Git, Azure
-
-### 🛠 Languages and Tools:
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MdALSiyam&label=Profile%20views&color=0e75b6&style=flat" alt="MdALSiyam" />
 </p>
 
-## 📫 Contact Me
--  GitHub:    https://github.com/MdALSiyam
--  LinkedIn:  https://www.linkedin.com/in/mdalsiyam/
--  Email:     mdabdullatifsiyam733@gmail.com
+---
+
+## 🧑‍💻 About Me
+
+- 🌍 I'm from **Bangladesh**  
+- 💻 Currently working as a **Full Stack Software Developer**  
+- 🔧 Skilled in **ASP.NET (MVC & Core)** and building dynamic, responsive web applications  
+- 📚 Always learning new tools & tech to sharpen my craft  
+- 🎯 Passionate about clean code, best practices, and impactful user experiences  
+
+---
+
+## 💡 Skills & Technologies
+
+### 🗄️ Database  
+`SQL` | `MySQL`
+
+### 🎨 Frontend  
+`HTML` | `CSS` | `Bootstrap` | `JavaScript` | `jQuery` | `Angular` | `React`
+
+### 🛠 Backend  
+`C#` | `ASP.NET (MVC & Core)` | `PHP (Laravel)` | `Node.js`
+
+### 🧩 Graphics & Animation  
+`Logo Design` | `Card Design` | `Product Design` | `3D Infographic Animation`
+
+### 🧰 Tools  
+`Git` | `Azure`
+
+---
+
+## 🛠 Languages and Tools
+
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mdalsiyam/)
+- 📧 Email: mdabdullatifsiyam733@gmail.com
+- 🔗 [GitHub](https://github.com/MdALSiyam)
+
+---
 
 ## 🌱 Currently Learning
--  Diving deep into advanced algorithms
--  Exploring cloud-native development
--  Getting hands-on with AI and machine learning
+
+- 📊 Diving deeper into **advanced algorithms**
+- ☁️ Exploring **cloud-native development**
+- 🤖 Hands-on with **AI and machine learning**
+
+---
 
 ## ✨ Fun Fact
-I'm a strategy game enthusiast—whether it's real-time or turn-based, I love the challenge of outsmarting the opponent!
 
-### 📊 GitHub Stats
+🎮 I'm a **strategy game enthusiast**—whether real-time or turn-based, I love the challenge of outsmarting my opponents!
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdALSiyam&layout=compact&theme=default" alt="Top Langs"/>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MdALSiyam&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdALSiyam&show_icons=true&theme=default" alt="GitHub stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdALSiyam&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=MdALSiyam&theme=default" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MdALSiyam&theme=radical" alt="GitHub Streak"/>
 </p>
