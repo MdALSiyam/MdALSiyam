@@ -23,3 +23,17 @@
 
 ## ✨ Fun Fact
 I'm a strategy game enthusiast—whether it's real-time or turn-based, I love the challenge of outsmarting the opponent!
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdALSiyam&layout=compact&theme=default" alt="Top Langs"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MdALSiyam&show_icons=true&theme=default" alt="GitHub stats"/>
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=MdALSiyam&theme=default" alt="GitHub Streak"/>
+</p>
