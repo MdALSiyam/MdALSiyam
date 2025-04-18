@@ -3,6 +3,8 @@
   I'm a passionate Full Stack Software Developer with expertise in ASP.NET. 
   I enjoy building dynamic and responsive applications, and I'm always eager to learn new technologies to improve my skills and deliver better solutions.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MdALSiyam&label=Profile%20views&color=0e75b6&style=flat" alt="MdALSiyam" /> </p>
+
 ## 💡 Skills
 -  Database: SQL, MySQL
 -  FrontEnd: HTML, CSS, Bootstrap, JavaScript, jQuery, Angular, React
