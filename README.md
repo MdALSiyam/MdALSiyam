@@ -71,16 +71,6 @@
 
 ---
 
-### 🚀 Technical Highlights & Projects
-
-- 🔒 **EC Login Web & Identity API:** Secure authentication system built using **ASP.NET Core & EF Core**.
-- ⚙️ **Dump Data:** Background .NET services to extract, AES-encrypt, and generate CSV reports from Oracle DBs.
-- 🔄 **Data Orchestration (Airflow DAGs):** Automated live server backups, data pipelines, and scheduled SFTP transfers.
-- 📊 **QC Web Portal:** Real-time web solutions for automated quality control testing and workflow tracking.
-- 📱 **Bulk Deregistration Portal:** High-throughput portal for bulk SIM deactivations with automated data validation.
-
----
-
 ### 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/mdalsiyam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -92,17 +82,16 @@
 <div align="center">
   <br/>
   
-  <img src="https://streak-stats.demolab.com?user=MdALSiyam&theme=synthwave&hide_border=true&background=0D1117" width="85%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MdALSiyam&theme=synthwave&hide_border=true&background=0D1117" width="55%" alt="GitHub Streak" />
 
   <br/>
 
   <a href="https://github.com/MdALSiyam">
-    <img src="https://img.shields.io/github/followers/MdALSiyam?label=Followers&style=for-the-badge&color=38B2AC&logo=github" />
-    <img src="https://img.shields.io/github/stars/MdALSiyam?label=Total%20Stars&style=for-the-badge&color=F7DF1E&logo=github&logoColor=black" />
-    <img src="https://img.shields.io/github/search/MdALSiyam/MdALSiyam/main?label=Public%20Repos&style=for-the-badge&color=0E75B6&logo=github" />
+    <img src="https://img.shields.io/github/followers/MdALSiyam?label=Followers&style=flat-square&color=38B2AC&logo=github" />
+    <img src="https://img.shields.io/github/stars/MdALSiyam?label=Stars&style=flat-square&color=F7DF1E&logo=github&logoColor=black" />
   </a>
 
   <br/>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=90&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=80&section=footer" width="100%" alt="Footer Banner" />
 </div>
