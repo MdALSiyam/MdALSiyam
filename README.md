@@ -1,81 +1,109 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30&height=200&section=header&text=Md.%20Abdul%20Latif%20(Siyam)&fontSize=28&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 
-  <a href="https://github.com/MdALSiyam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=38B2AC&center=true&vCenter=true&width=550&lines=Full-Stack+Software+Developer;ASP.NET+Core+%26+EF+Core+Specialist;Backend+%26+Automation+Engineer;IsDB-BISEW+IT+Scholar" alt="Typing SVG" /></a>
+  <a href="https://github.com/MdALSiyam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=38B2AC&center=true&vCenter=true&width=550&lines=I+am+a+Full-Stack+Software+Developer;I+am+an+ASP.NET+Core+%26+EF+Core+Specialist;I+am+a+Backend+%26+Automation+Engineer;I+am+a+Mobile+App+Developer" alt="Typing SVG" /></a>
 
-  <p><img src="https://komarev.com/ghpvc/?username=MdALSiyam&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /></p>
+  <p><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMdALSiyam&count_bg=%230E75B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views" /></p>
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-- 🚀 **Full-Stack Developer** focused on building high-performance web apps and enterprise backend systems.
-- 🛠️ Specialized in **ASP.NET Core (Web API/MVC)**, **EF Core**, **SQL**, and modern JS frameworks.
-- 📊 Experienced in automated reporting pipelines (**Apache Airflow**), identity APIs, and database architecture.
-- 🎓 **IsDB-BISEW Certified** in Cross-Platform Web Application Development.
-- 🎯 Dedicated to clean architecture, query optimization, and test-driven development.
-
----
-
-### 💻 Tech Stack & Skills
-
-**Core Languages**
-<p align="left" style="margin-top: 6px; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-**Backend & Frameworks**
-<p align="left" style="margin-top: 6px; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-</p>
-
-**Frontend & UI**
-<p align="left" style="margin-top: 6px; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-**Databases**
-<p align="left" style="margin-top: 6px; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/MS%20SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-**DevOps, Automation & Tools**
-<p align="left" style="margin-top: 6px; margin-bottom: 10px;">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+- Full-Stack Software Developer experienced in building enterprise web apps, mobile solutions, and scalable RESTful APIs[cite: 1].
+- Specialized in ASP.NET Core, Entity Framework Core, MVC, Razor Pages, and Clean Architecture practices[cite: 1].
+- Proficient in dynamic frontend and cross-platform mobile development using Angular, React, Next.js, and Flutter[cite: 1].
+- Solid database management skills across MS SQL Server, Oracle (PL/SQL), PostgreSQL, MySQL, and MongoDB[cite: 1].
+- Experienced in designing automated ETL pipelines and workflow orchestrations using Apache Airflow[cite: 1].
+- Hands-on background in implementing AES Encryption, JWT/OAuth2 authentication, and secure data handling[cite: 1].
+- Skilled in DevOps practices, containerization with Docker, CI/CD pipelines, IIS/Nginx server management, and Linux deployment[cite: 1].
+- Proficient in writing automated unit tests using xUnit and NUnit to ensure code quality and maintainability[cite: 1].
+- Experienced in building automated SFTP remote backup systems and generating secure reports in PDF, CSV, and Crystal Reports formats[cite: 1].
 
 ---
 
-### 🌐 Connect with Me
+### Technical Skills
 
-<a href="https://www.linkedin.com/in/mdalsiyam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:mdabdullatifsiyam733@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://github.com/MdALSiyam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Programming Languages</strong><br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cs,js,ts,php,python,dart,html,css" alt="Programming Languages" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <strong>Frontend Technologies</strong><br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=angular,react,nextjs,flutter,tailwind,bootstrap,jquery,html,css" alt="Frontend Technologies" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <strong>Backend Architecture</strong><br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,laravel,prisma,graphql" alt="Backend Architecture" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Database Management</strong><br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mssql,oracle,postgres,mysql,mongodb,redis,supabase,sqlite" alt="Database Management" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <strong>Workflow Automation</strong><br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=airflow,python,bash" alt="Workflow Automation" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <strong>System Security</strong><br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postman,bash" alt="System Security" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <strong>DevOps Infrastructure</strong><br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,azure,nginx,vercel,firebase" alt="DevOps Infrastructure" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <strong>Reporting & Analytics</strong><br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=grafana" alt="Reporting Analytics" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <strong>Software Quality</strong><br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio" alt="Software Quality" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mdalsiyam/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdabdullatifsiyam733@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MdALSiyam" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
