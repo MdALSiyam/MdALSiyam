@@ -3,7 +3,7 @@
 
   <a href="https://github.com/MdALSiyam"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=38B2AC&center=true&vCenter=true&width=550&lines=I+am+a+Full-Stack+Software+Developer;I+am+an+ASP.NET+Core+%26+EF+Core+Specialist;I+am+a+Backend+%26+Automation+Engineer;I+am+a+Mobile+App+Developer" alt="Typing SVG" /></a>
 
-  <p><img src="https://page-views.glitch.me/get/@MdALSiyam?theme=flat&color=0e75b6" alt="Profile Views" /></p>
+  <p><img src="https://mojo-counter.netlify.app/api/hit?user=MdALSiyam&label=Profile%20Views&color=0e75b6" alt="Profile Views" /></p>
 </div>
 
 ---
