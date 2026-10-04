@@ -73,12 +73,19 @@
         <img src="https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,azure,nginx,vercel,firebase" alt="DevOps Infrastructure" />
       </a>
     </td>
-    <td align="center" width="33%">
-      <strong>Reporting & Analytics</strong><br/><br/>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=grafana" alt="Reporting Analytics" />
-      </a>
-    </td>
+<td align="center" width="33%">
+  <strong>Reporting & Analytics</strong><br/><br/>
+  <!-- Grafana -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" />
+  </a>
+  <!-- PDF -->
+  <img src="https://img.icons8.com/color/48/pdf-2.png" width="40" height="40" alt="PDF" title="PDF Reports" />
+  <!-- Word -->
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="40" height="40" alt="Word" title="Word Reports" />
+  <!-- CSV -->
+  <img src="https://img.icons8.com/color/48/csv.png" width="40" height="40" alt="CSV" title="CSV Reports" />
+</td>
     <td align="center" width="33%">
       <strong>Software Quality</strong><br/><br/>
       <a href="https://skillicons.dev">
